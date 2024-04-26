@@ -33,6 +33,8 @@ By utilizing Ragas, we generated ground truths by analyzing the most frequently 
 
 **Notebooks**
 
-Notebook for Aware RAG Script: https://github.com/
-Notebook for embedding comparison: https://github.com/
-Notebook for RAG Evaluation: https://github.com/
+Notebook for Aware RAG Script: [https://github.com/](https://github.com/NessMayker/aware_nlp/blob/main/Aware_RAG_Script_Submission_Matching.ipynb)
+
+Notebook for embedding comparison: [https://github.com/](https://github.com/NessMayker/aware_nlp/blob/main/RAG_Embedding_Comparison.ipynb)
+
+Notebook for RAG Evaluation: [https://github.com/](https://github.com/NessMayker/aware_nlp/blob/main/Evaluation.ipynb)
