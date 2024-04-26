@@ -1,4 +1,4 @@
-# Aware NLP Project Group 1
+# Aware RAG Project Group 1
 ## Erdos Institute Data Science Bootcamp, April 2024
 
 ### Project team: Yangxiao Luo, Ness Mayker Chen, Merve Keskin
