@@ -17,7 +17,7 @@ Challenge: accurately match the comments with submissions to create queries and 
 
 Our work analyzes a vast public dataset comprising 5 million Reddit submissions and comments across 21 subreddits. The dataset consists of written submissions and corresponding comments. In order to establish a dependable connection between our questions and answers in the data, we eliminated all submissions that lacked comments. Then, we reorganized our data into a new format where each submission is stored in one row, and the corresponding comments are stored in a single column as vectorized data. This led us to create a submission-based data frame comprising 20613 observations.
 
-**Model and Evaluation:**
+**Model and Evaluation**
 
 We use pre-trained sentence embedding for our retrieval. We combined the title, text, and subreddit category of each submission into one string. We used embeddings to transform the string into an encoded format. We went through this process for every submission to generate a vector database.
 
