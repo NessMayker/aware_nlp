@@ -5,10 +5,10 @@
 
 ### Introduction
 
-**Motivation:**
-Generative AI systems produce responses by utilizing the most pertinent data at their disposal. However, they could hallucinate and provide mistaken results. Therefore, it is very important to build systems that could provide context relevant answers. Where does this relevant data come to the system from? How applicable is it to the specific context?
+**Motivation and Goal**
+AI systems that generate responses use the most relevant data available to them. Nevertheless, there is a possibility of hallucinations leading to inaccurate outcomes. Hence, it is crucial to develop systems capable of delivering answers that are relevant to the context. Where is the source of this relevant data within the system? How well does it fit into the specific context?
 
-Our goal in this project is developing a rapid delivery system utilizing external contextual reference data. This system should be capable of efficiently searching through and ranking over millions of text in response to user queries. Having mechanisms for assessing the qualitative performance of the retrieval outputs is another aspect of this system. 
+Our objective for this project is to create a fast delivery system that incorporates external contextual reference data. The system needs to have the ability to efficiently search and rank millions of texts in response to user queries. The system also incorporates mechanisms for evaluating the qualitative performance of the retrieval outputs.
 
 **Data Organisation**
 
